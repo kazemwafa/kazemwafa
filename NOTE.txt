@@ -1,0 +1,7 @@
+How to add libraries to arduino ide 
+
+In arduino ide click on sketch - >  include library -> Add .zip library
+and select the library folder and select the .zip files.
+
+repeat the same till you add all the libraries. 
+
